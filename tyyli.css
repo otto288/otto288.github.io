@@ -9,6 +9,9 @@ h1 {
   font-family: courier;
   font-size: 160%;
 
+    p {
+  border: 2px solid powderblue;
+}
 
 
 
