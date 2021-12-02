@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>Vaihtoautot</h1>
+
+<table>
+  <caption>Listan autot</caption>
+  <tr>
+    <th>Merkki</th>
+    <th>Vuosimalli</th>
+    <th>Malli</th>
+  </tr>
+  <tr>
+    <td>Volvo</td>
+    <td>2017</td>
+    <td>V90</td>
+  </tr>
+  <tr>
+    <td>Audi</td>
+    <td>2016</td>
+    <td>A4</td>
+  </tr>
+  <tr>
+    <td>BMW</td>
+    <td>2014</td>
+    <td>5-sarja</td>
+     </tr>
+      <tr>
+    <td>Mercedes-Benz</td>
+    <td>2018</td>
+    <td>GLE</td>
+     </tr>
+      <tr>
+    <td>Volkswagen</td>
+    <td>2015</td>
+    <td>Passat</td>
+     </tr>
+  
+</table>
+
+<BR>
+<h1>Form</h1>
+<form action="l">
+  <label for="fieldname">Field name:</label>
+  <input type="text" id="fieldname" name="fieldname" required>
+  <input type="submit">
+</form>
+<BR>
+<form action="l">
+  <label for="fieldlastname">Field last name:</label>
+  <input type="text" id="fieldlastname" name="fieldlastname" required>
+  <input type="submit">
+</form>
+<BR>
+<form action="l">
+  <label for="fieldemail">Field email:</label>
+  <input type="text" id="fieldemail" name="fieldemail" required>
+  <input type="submit">
+</form>
+
+<BR>
+
+<h1>Textarea
+<form action="l">
+<textarea rows="4" cols="80" name="comment" required>
+</textarea>
+<input type="submit">
+</form>
+
+<BR>
+<form action="l">
+ <p>Checkbox</p>
+ <input type="checkbox">
+  <input type="submit" value="Submit">
+
+
+</form>
+<BR>
+
+<form action="l">
+  <label for="Merkki">Valitse:</label>
+  <select name="cars" id="cars">
+    <option value="volvo">Volvo</option>
+    <option value="peugeot">Peugeot</option>
+    <option value="volkswagen">Volkswagen</option>
+    <option value="audi">Audi</option>
+     <option value="bmw">BMW</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<BR>
+
+
+
+
+
+</body>
+</html>
