@@ -1,19 +1,19 @@
-# {
+#cars {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-#td, #th {
+#cars td, #cars th {
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-# tr:nth-child(even){background-color: #B22222;}
+#cars tr:nth-child(even){background-color: #B22222;}
 
-# tr:hover {background-color: #F0F8FF;}
+#cars tr:hover {background-color: #F0F8FF;}
 
-#th {
+#cars th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
