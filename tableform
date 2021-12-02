@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="https://otto288.github.io/styletable.css" type="text/css"/>
 <style>
 table, th, td {
   border: 1px solid black;
