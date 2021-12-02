@@ -12,6 +12,8 @@ table, th, td {
 
 <h1>Vaihtoautot</h1>
 
+<table id="cars">
+
 <table>
   <caption>Listan autot</caption>
   <tr>
