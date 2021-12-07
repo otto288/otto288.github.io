@@ -1,6 +1,9 @@
 body {background-color: #F0F8FF;}
-h1   {color: #2F4F4F;}
 
+h1 {
+  color: #2F4F4F;
+  font-family: verdana;
+  font-size: 300%;
 }
   p {
   color: #2F4F4F;
