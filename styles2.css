@@ -1,4 +1,9 @@
 body {background-color: #F0F8FF;}
 h1   {color: #2F4F4F;}
-p    {color: #2F4F4F;}
-font-family: fantasy;
+
+}
+  p {
+  color: #2F4F4F;
+  font-family: fantasy;
+  font-size: 250%;
+}
