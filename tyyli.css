@@ -1,4 +1,4 @@
-body {background-color: lightcyan;}
+body {background-color: #F0F8FF;}
 
 h1 {
   color: fuchsia;
@@ -6,7 +6,7 @@ h1 {
   font-size: 300%;
 }
   p {
-  color: red;
+  color: #6495ED;
   font-family: courier;
   font-size: 160%;
 }
