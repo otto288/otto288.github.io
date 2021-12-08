@@ -10,3 +10,7 @@ h1 {
   font-family: sans-serif;
   font-size: 250%;
 }
+#my-text {
+    float: right;
+    margin-right: 100px;
+}
